@@ -1,4 +1,4 @@
-# selenium-post-share
+# selenium-instagram-facebook-twitter
 # Python Selenium auto post share in Instagram, Facebook, Twitter
 
 required libraries selenium, time
