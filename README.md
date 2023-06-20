@@ -11,4 +11,4 @@ chrome webdriver
 
 secrets.txt and count.txt must same folder with main.py
 
-xpaths and times migth be change on differnt dives u can change 
+xpaths and times migth be change on differnt devices u can change 
